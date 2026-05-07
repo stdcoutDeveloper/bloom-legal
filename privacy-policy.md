@@ -19,7 +19,8 @@ Nếu bạn có câu hỏi hoặc góp ý, vui lòng liên hệ qua mục **"G�
 Mọi thông tin nhật ký, thư và cài đặt được lưu cục bộ trên thiết bị của bạn.
 
 * Không có máy chủ lưu trữ dữ liệu thai kỳ
-* Không có quảng cáo — không có theo dõi hành vi (tracking)
+* Không có quảng cáo — không theo dõi hành vi người dùng (tracking)
+* Sử dụng Firebase Crashlytics (dịch vụ của Google) để ghi nhận lỗi kỹ thuật nhằm cải thiện độ ổn định của ứng dụng
 * Không bán hoặc chia sẻ dữ liệu cá nhân cho bên thứ ba
 * Bạn toàn quyền kiểm soát dữ liệu của mình
 
@@ -54,6 +55,20 @@ Chúng tôi không sử dụng thông tin này cho mục đích marketing.
 
 ---
 
+### Thông tin kỹ thuật khi ứng dụng gặp lỗi
+
+Bloom sử dụng **Firebase Crashlytics** (dịch vụ của Google) để tự động ghi nhận thông tin kỹ thuật khi ứng dụng xảy ra lỗi hoặc crash, có thể bao gồm:
+
+* Loại lỗi và vị trí trong code (stack trace)
+* Phiên bản ứng dụng và phiên bản Android
+* Model thiết bị và cấu hình phần cứng
+
+Các thông tin này **chỉ mang tính kỹ thuật**, không bao gồm nội dung nhật ký, thư hoặc bất kỳ dữ liệu cá nhân nào bạn nhập vào ứng dụng.
+ 
+Mục đích của việc thu thập thông tin này là giúp chúng tôi phát hiện, chẩn đoán và sửa lỗi nhằm cải thiện độ ổn định của ứng dụng.
+
+---
+
 ### Thông tin chúng tôi không chủ động thu thập
 
 Bloom không chủ động thu thập các loại thông tin sau:
@@ -77,6 +92,8 @@ Các dữ liệu này được bảo vệ bởi cơ chế sandbox của hệ đi
 
 Thông tin phản hồi bạn gửi được lưu trữ trên nền tảng Google Forms và không được lưu trữ trong hệ thống cơ sở dữ liệu riêng do chúng tôi quản lý.
 
+Thông tin kỹ thuật khi ứng dụng gặp lỗi được lưu trữ trên hệ thống Firebase Crashlytics của Google và chỉ được chúng tôi truy cập cho mục đích sửa lỗi.
+
 ---
 
 ## 3. MỤC ĐÍCH SỬ DỤNG THÔNG TIN
@@ -86,6 +103,7 @@ Thông tin được sử dụng cho các mục đích sau:
 * **Cung cấp dịch vụ:** hiển thị và quản lý dữ liệu cá nhân trong ứng dụng
 * **Thông báo nhắc nhở:** gửi thông báo theo lịch bạn thiết lập
 * **Hỗ trợ kỹ thuật:** xử lý phản hồi và cải thiện sản phẩm
+* **Ổn định ứng dụng:** phát hiện, chẩn đoán và sửa lỗi thông qua Firebase Crashlytics
 
 Chúng tôi không sử dụng thông tin cho quảng cáo, marketing hoặc phân tích hành vi người dùng.
 
@@ -98,6 +116,7 @@ Chúng tôi không bán, chia sẻ hoặc chuyển giao dữ liệu cá nhân c�
 **Ngoại lệ:**
 
 * Thông tin phản hồi được gửi thông qua Google Forms (dịch vụ của Google) để phục vụ việc tiếp nhận và xử lý hỗ trợ người dùng.
+* Thông tin kỹ thuật khi ứng dụng gặp lỗi có thể được gửi đến **Firebase Crashlytics** (dịch vụ của Google) để phục vụ việc phát hiện và sửa lỗi. Việc xử lý dữ liệu này tuân theo Chính sách bảo mật của Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ---
 
