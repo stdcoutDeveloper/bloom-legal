@@ -8,7 +8,7 @@ Chính sách bảo mật này áp dụng cho ứng dụng **Bloom — Nhật Ký
 
 Tài liệu này mô tả cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng trên thiết bị di động (hiện hỗ trợ Android).
 
-Nếu bạn có câu hỏi hoặc góp ý, vui lòng liên hệ qua mục **"Gửi phản hồi"** trong ứng dụng hoặc qua email: **[donghunglabs@gmail.com](mailto:donghunglabs@gmail.com)**
+Nếu bạn có câu hỏi hoặc góp ý, vui lòng liên hệ qua mục **"Gửi phản hồi"** trong ứng dụng hoặc qua email: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
 
 ---
 
@@ -157,7 +157,7 @@ Vì dữ liệu được lưu trực tiếp trên thiết bị, bạn có toàn 
 * **Xóa dữ liệu:** thông qua chức năng trong ứng dụng
 * **Gỡ cài đặt:** sẽ xóa dữ liệu khỏi thiết bị trong điều kiện sử dụng thông thường
 
-Nếu bạn đã gửi phản hồi kèm email và muốn xóa thông tin đó, vui lòng liên hệ: **[donghunglabs@gmail.com](mailto:donghunglabs@gmail.com)**
+Nếu bạn đã gửi phản hồi kèm email và muốn xóa thông tin đó, vui lòng liên hệ: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
 
 ---
 
@@ -186,7 +186,7 @@ Phiên bản mới nhất luôn có sẵn tại: **Cài đặt → Chính sách 
 Nếu bạn có câu hỏi hoặc góp ý:
 
 * Trong ứng dụng: **Cài đặt → Gửi phản hồi**
-* Email: **[donghunglabs@gmail.com](mailto:donghunglabs@gmail.com)**
+* Email: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
 
 ---
 
