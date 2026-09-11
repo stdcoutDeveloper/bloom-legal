@@ -181,5 +181,5 @@ Our failure to exercise any right does not constitute a waiver of that right.
 
 Dong Hung Labs · Vietnam
 
-Email: donghunglabs.support@gmail.com
-Or send feedback directly within the Bloom app.
+- Email: donghunglabs.support@gmail.com
+- Or send feedback directly within the Bloom app.
