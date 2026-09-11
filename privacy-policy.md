@@ -1,193 +1,159 @@
-# CHÍNH SÁCH BẢO MẬT — BLOOM
+# PRIVACY POLICY — BLOOM
 
-**Cập nhật lần cuối:** 09/04/2026
+**Last updated: April 9, 2026**
 
----
+This Privacy Policy applies to the Bloom — Pregnancy Journal app ("we", "our", "the app"), developed and operated by Dong Hung Labs.
 
-Chính sách bảo mật này áp dụng cho ứng dụng **Bloom — Nhật Ký Mẹ Bầu** ("chúng tôi", "ứng dụng"), được phát triển và vận hành bởi Dong Hung Labs.
+This document describes how we handle information when you use the app on your mobile device (currently supporting Android).
 
-Tài liệu này mô tả cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng trên thiết bị di động (hiện hỗ trợ Android).
+If you have any questions or suggestions, please contact us through the "Send Feedback" feature in the app or by email: donghunglabs.support@gmail.com
 
-Nếu bạn có câu hỏi hoặc góp ý, vui lòng liên hệ qua mục **"Gửi phản hồi"** trong ứng dụng hoặc qua email: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
+## SUMMARY
 
----
+🔒 Bloom does not collect or store your personal data on servers operated by us.
 
-## TÓM TẮT
+All journal entries, letters, and settings are stored locally on your device.
 
-🔒 **Bloom không thu thập hoặc lưu trữ dữ liệu cá nhân của bạn trên máy chủ do chúng tôi vận hành.**
+- No server stores your pregnancy data
+- No ads — no user behavior tracking
+- Uses Firebase Crashlytics (a Google service) to record technical errors in order to improve app stability
+- We do not sell or share personal data with third parties
+- You have full control over your data
 
-Mọi thông tin nhật ký, thư và cài đặt được lưu cục bộ trên thiết bị của bạn.
+## 1. INFORMATION WE COLLECT
 
-* Không có máy chủ lưu trữ dữ liệu thai kỳ
-* Không có quảng cáo — không theo dõi hành vi người dùng (tracking)
-* Sử dụng Firebase Crashlytics (dịch vụ của Google) để ghi nhận lỗi kỹ thuật nhằm cải thiện độ ổn định của ứng dụng
-* Không bán hoặc chia sẻ dữ liệu cá nhân cho bên thứ ba
-* Bạn toàn quyền kiểm soát dữ liệu của mình
+### Information stored on your device
 
----
+Bloom stores the following information you enter, locally on your device, including: mother's name, baby's name, gestational week, due date, journal content, letters to your baby, medication list, and personal notes.
 
-## 1. THÔNG TIN CHÚNG TÔI THU THẬP
+This information is not transmitted off your device by us.
 
-### Thông tin lưu trên thiết bị của bạn
+### Information when you send feedback
 
-Bloom lưu trữ cục bộ trên thiết bị các thông tin bạn tự nhập, bao gồm: tên mẹ, tên bé, tuần thai, ngày dự sinh, nội dung nhật ký, thư gửi con, danh sách thuốc và ghi chú cá nhân.
+When you actively use the "Send Feedback" feature, we may receive:
 
-Các thông tin này **không được truyền ra khỏi thiết bị của bạn bởi chúng tôi**.
+- The feedback content you enter
+- App version
+- Android version
+- Email address (optional, only if you provide it yourself)
 
----
+This information is submitted through Google Forms (a Google service) and is only used to:
 
-### Thông tin khi bạn gửi phản hồi
+- Support users
+- Handle errors
+- Improve the app
 
-Khi bạn chủ động sử dụng tính năng **"Gửi phản hồi"**, chúng tôi có thể nhận được:
+We do not use this information for marketing purposes.
 
-* Nội dung phản hồi bạn nhập
-* Phiên bản ứng dụng (app version)
-* Phiên bản Android (Android version)
-* Địa chỉ email (tùy chọn, chỉ khi bạn tự cung cấp)
+### Technical information when the app encounters an error
 
-Thông tin này được gửi thông qua **Google Forms (dịch vụ của Google)** và chỉ được sử dụng để:
+Bloom uses Firebase Crashlytics (a Google service) to automatically record technical information when the app experiences an error or crash, which may include:
 
-* Hỗ trợ người dùng
-* Xử lý lỗi
-* Cải thiện ứng dụng
+- Error type and location in the code (stack trace)
+- App version and Android version
+- Device model and hardware configuration
 
-Chúng tôi không sử dụng thông tin này cho mục đích marketing.
+This information is purely technical and does not include your journal content, letters, or any personal data you enter into the app.
 
----
+The purpose of collecting this information is to help us detect, diagnose, and fix errors in order to improve app stability.
 
-### Thông tin kỹ thuật khi ứng dụng gặp lỗi
+### Information we do not actively collect
 
-Bloom sử dụng **Firebase Crashlytics** (dịch vụ của Google) để tự động ghi nhận thông tin kỹ thuật khi ứng dụng xảy ra lỗi hoặc crash, có thể bao gồm:
+Bloom does not actively collect the following types of information:
 
-* Loại lỗi và vị trí trong code (stack trace)
-* Phiên bản ứng dụng và phiên bản Android
-* Model thiết bị và cấu hình phần cứng
+- IP address
+- Phone number
+- Geographic location
+- App usage history
+- Device data beyond the information you provide when sending feedback
+- Cookies or tracking technologies
 
-Các thông tin này **chỉ mang tính kỹ thuật**, không bao gồm nội dung nhật ký, thư hoặc bất kỳ dữ liệu cá nhân nào bạn nhập vào ứng dụng.
- 
-Mục đích của việc thu thập thông tin này là giúp chúng tôi phát hiện, chẩn đoán và sửa lỗi nhằm cải thiện độ ổn định của ứng dụng.
+We also do not collect sensitive information as legally defined, such as: national ID numbers, financial information, biometric data, or clinical medical records.
 
----
+## 2. HOW WE STORE INFORMATION
 
-### Thông tin chúng tôi không chủ động thu thập
+Journal, letter, and settings data are stored locally on your device through storage mechanisms such as SQLite and SharedPreferences.
 
-Bloom không chủ động thu thập các loại thông tin sau:
+This data is protected by the Android operating system's sandbox mechanism, which helps prevent unauthorized access by other apps.
 
-* Địa chỉ IP
-* Số điện thoại
-* Vị trí địa lý
-* Lịch sử sử dụng ứng dụng
-* Dữ liệu thiết bị ngoài các thông tin bạn cung cấp khi gửi phản hồi
-* Cookies hoặc công nghệ theo dõi
+Feedback information you submit is stored on the Google Forms platform and is not stored in any separate database system managed by us.
 
-Chúng tôi cũng không thu thập thông tin nhạy cảm theo định nghĩa pháp lý như: số CCCD, thông tin tài chính, dữ liệu sinh trắc học hoặc hồ sơ y tế lâm sàng.
+Technical information from app errors is stored on Google's Firebase Crashlytics system and is accessed by us only for the purpose of fixing errors.
 
----
+## 3. PURPOSE OF USING INFORMATION
 
-## 2. CÁCH CHÚNG TÔI LƯU TRỮ THÔNG TIN
+Information is used for the following purposes:
 
-Dữ liệu nhật ký, thư và cài đặt được lưu cục bộ trên thiết bị của bạn thông qua các cơ chế lưu trữ như SQLite và SharedPreferences.
+- **Providing the service:** displaying and managing personal data within the app
+- **Reminder notifications:** sending notifications according to the schedule you set
+- **Technical support:** handling feedback and improving the product
+- **App stability:** detecting, diagnosing, and fixing errors through Firebase Crashlytics
 
-Các dữ liệu này được bảo vệ bởi cơ chế sandbox của hệ điều hành Android, giúp ngăn các ứng dụng khác truy cập trái phép.
+We do not use information for advertising, marketing, or user behavior analysis.
 
-Thông tin phản hồi bạn gửi được lưu trữ trên nền tảng Google Forms và không được lưu trữ trong hệ thống cơ sở dữ liệu riêng do chúng tôi quản lý.
+## 4. SHARING INFORMATION WITH THIRD PARTIES
 
-Thông tin kỹ thuật khi ứng dụng gặp lỗi được lưu trữ trên hệ thống Firebase Crashlytics của Google và chỉ được chúng tôi truy cập cho mục đích sửa lỗi.
+We do not sell, share, or transfer your personal data to third parties.
 
----
+**Exceptions:**
 
-## 3. MỤC ĐÍCH SỬ DỤNG THÔNG TIN
+- Feedback information is submitted through Google Forms (a Google service) to support the receipt and handling of user support.
+- Technical information from app errors may be sent to Firebase Crashlytics (a Google service) to support error detection and fixing. The processing of this data follows Google's Privacy Policy: https://policies.google.com/privacy
 
-Thông tin được sử dụng cho các mục đích sau:
+## 5. PAYMENTS
 
-* **Cung cấp dịch vụ:** hiển thị và quản lý dữ liệu cá nhân trong ứng dụng
-* **Thông báo nhắc nhở:** gửi thông báo theo lịch bạn thiết lập
-* **Hỗ trợ kỹ thuật:** xử lý phản hồi và cải thiện sản phẩm
-* **Ổn định ứng dụng:** phát hiện, chẩn đoán và sửa lỗi thông qua Firebase Crashlytics
+Bloom Premium purchases are processed by Google Play.
 
-Chúng tôi không sử dụng thông tin cho quảng cáo, marketing hoặc phân tích hành vi người dùng.
+We do not store or have access to your payment information. Payment processing follows Google's policies.
 
----
+## 6. DEVICE PERMISSIONS
 
-## 4. CHIA SẺ THÔNG TIN VỚI BÊN THỨ BA
+The app may request the following permissions:
 
-Chúng tôi không bán, chia sẻ hoặc chuyển giao dữ liệu cá nhân của bạn cho bên thứ ba.
+- **Camera & Photo Library:** only when you actively choose "Add Photo"
+- **Notifications:** to send reminders according to the schedule you set
 
-**Ngoại lệ:**
+You may deny or revoke permissions at any time in your device settings.
 
-* Thông tin phản hồi được gửi thông qua Google Forms (dịch vụ của Google) để phục vụ việc tiếp nhận và xử lý hỗ trợ người dùng.
-* Thông tin kỹ thuật khi ứng dụng gặp lỗi có thể được gửi đến **Firebase Crashlytics** (dịch vụ của Google) để phục vụ việc phát hiện và sửa lỗi. Việc xử lý dữ liệu này tuân theo Chính sách bảo mật của Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Denying permissions may affect the directly related features.
 
----
+## 7. CHILDREN'S INFORMATION
 
-## 5. THANH TOÁN
+The app is designed for users aged 18 and over.
 
-Các giao dịch mua **Bloom Premium** được xử lý bởi Google Play.
+We do not knowingly collect information from children under 18. If we discover that data has been provided inappropriately, please contact us so we can help address it.
 
-Chúng tôi không lưu trữ hoặc có quyền truy cập vào thông tin thanh toán của bạn. Việc xử lý thanh toán tuân theo chính sách của Google.
+## 8. YOUR RIGHTS
 
----
+Because data is stored directly on your device, you have full control:
 
-## 6. QUYỀN TRUY CẬP THIẾT BỊ
+- **View and edit:** directly within the app
+- **Delete data:** through the in-app function
+- **Uninstall:** will remove data from your device under normal usage conditions
 
-Ứng dụng có thể yêu cầu các quyền sau:
+If you have submitted feedback with your email and want that information deleted, please contact: donghunglabs.support@gmail.com
 
-* **Camera & Thư viện ảnh:** chỉ khi bạn chủ động chọn "Thêm ảnh"
-* **Thông báo (Notification):** để gửi nhắc nhở theo lịch bạn thiết lập
+## 9. INFORMATION SECURITY
 
-Bạn có thể từ chối hoặc thu hồi quyền bất kỳ lúc nào trong cài đặt thiết bị.
+We apply reasonable measures to protect information.
 
-Việc từ chối quyền có thể ảnh hưởng đến các tính năng liên quan trực tiếp.
+Data is stored in the app's private storage area and protected by the Android sandbox.
 
----
+However, no storage method is completely secure. You should use a screen lock to strengthen your device's security.
 
-## 7. THÔNG TIN TRẺ EM
+## 10. POLICY UPDATES
 
-Ứng dụng được thiết kế dành cho người dùng từ 18 tuổi trở lên.
+We may update this policy from time to time.
 
-Chúng tôi không cố ý thu thập thông tin từ trẻ em dưới 18 tuổi. Nếu phát hiện có dữ liệu được cung cấp không phù hợp, vui lòng liên hệ để chúng tôi hỗ trợ xử lý.
+When there are significant changes, the app will notify you when you open it.
 
----
+The latest version is always available at: Settings → Privacy Policy
 
-## 8. QUYỀN CỦA BẠN
+## 11. CONTACT
 
-Vì dữ liệu được lưu trực tiếp trên thiết bị, bạn có toàn quyền kiểm soát:
+If you have any questions or suggestions:
 
-* **Xem và chỉnh sửa:** trực tiếp trong ứng dụng
-* **Xóa dữ liệu:** thông qua chức năng trong ứng dụng
-* **Gỡ cài đặt:** sẽ xóa dữ liệu khỏi thiết bị trong điều kiện sử dụng thông thường
+- **In the app:** Settings → Send Feedback
+- **Email:** donghunglabs.support@gmail.com
 
-Nếu bạn đã gửi phản hồi kèm email và muốn xóa thông tin đó, vui lòng liên hệ: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
-
----
-
-## 9. BẢO MẬT THÔNG TIN
-
-Chúng tôi áp dụng các biện pháp hợp lý để bảo vệ thông tin.
-
-Dữ liệu được lưu trong vùng nhớ riêng của ứng dụng và được bảo vệ bởi sandbox của Android.
-
-Tuy nhiên, không có phương thức lưu trữ nào là an toàn tuyệt đối. Bạn nên sử dụng khóa màn hình để tăng cường bảo mật thiết bị.
-
----
-
-## 10. CẬP NHẬT CHÍNH SÁCH
-
-Chúng tôi có thể cập nhật chính sách này theo thời gian.
-
-Khi có thay đổi quan trọng, ứng dụng sẽ thông báo cho bạn khi mở ứng dụng.
-
-Phiên bản mới nhất luôn có sẵn tại: **Cài đặt → Chính sách bảo mật**
-
----
-
-## 11. LIÊN HỆ
-
-Nếu bạn có câu hỏi hoặc góp ý:
-
-* Trong ứng dụng: **Cài đặt → Gửi phản hồi**
-* Email: **[donghunglabs.support@gmail.com](mailto:donghunglabs.support@gmail.com)**
-
----
-
-*Bloom — Nhật Ký Mẹ Bầu*
+Bloom — Pregnancy Journal
