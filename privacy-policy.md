@@ -1,8 +1,8 @@
-# PRIVACY POLICY — BLOOM
+# PRIVACY POLICY - BLOOM
 
 **Last updated: April 9, 2026**
 
-This Privacy Policy applies to the Bloom — Pregnancy Journal app ("we", "our", "the app"), developed and operated by Dong Hung Labs.
+This Privacy Policy applies to the Bloom - Pregnancy Journal app ("we", "our", "the app"), developed and operated by Dong Hung Labs.
 
 This document describes how we handle information when you use the app on your mobile device (currently supporting Android).
 
@@ -15,7 +15,7 @@ If you have any questions or suggestions, please contact us through the "Send Fe
 All journal entries, letters, and settings are stored locally on your device.
 
 - No server stores your pregnancy data
-- No ads — no user behavior tracking
+- No ads - no user behavior tracking
 - Uses Firebase Crashlytics (a Google service) to record technical errors in order to improve app stability
 - We do not sell or share personal data with third parties
 - You have full control over your data
@@ -156,4 +156,4 @@ If you have any questions or suggestions:
 - **In the app:** Settings → Send Feedback
 - **Email:** donghunglabs.support@gmail.com
 
-Bloom — Pregnancy Journal
+Bloom - Pregnancy Journal
